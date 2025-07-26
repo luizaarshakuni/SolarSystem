@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-image: url("/public/images/back.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
+

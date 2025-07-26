@@ -1,0 +1,59 @@
+.AboutPart {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 40px 60px;
+  position: relative;
+}
+
+.solarSystem {
+  margin: 160px auto;
+  max-width: 450px;
+  width: 90%;
+  padding: 10px 20px 30px;
+  background-color: #09080d;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 12px;
+  box-shadow: 0 0 7px rgba(255, 255, 255, 0.2);
+  z-index: 999;
+  backdrop-filter: blur(6px);
+  overflow-y: hidden;
+  max-height: 40vh;
+}
+
+.solarSystem h1 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.solarSystem h2 {
+  font-size: 17px;
+  margin-bottom: 8px;
+  color: #ffffff;
+}
+
+.solarSystem p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.PlanetsSection {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+}

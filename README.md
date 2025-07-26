@@ -1,3 +1,23 @@
+# Solar System React App
+
+This is a React project that visualizes the planets of the solar system with interactive UI and animations.
+
+## Features
+- Planet rotation animation
+- Detailed info per planet
+- Responsive layout
+- React Router navigation
+
+## Tech Stack
+- React.js
+- CSS animations
+- React Router
+
+## Demo Videos
+
+[Demo video](https://github.com/user-attachments/assets/5a737a76-1401-4e6f-96f2-86002d751fa1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +88,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+

@@ -15,7 +15,7 @@ This is a React project that visualizes the planets of the solar system with int
 
 ## Demo Videos
 
-[Demo video](https://github.com/user-attachments/assets/5a737a76-1401-4e6f-96f2-86002d751fa1)
+[demo-video.webm](https://github.com/user-attachments/assets/701aef31-e0b9-4bed-b2c8-b805c9c69659)
 
 
 # Getting Started with Create React App
